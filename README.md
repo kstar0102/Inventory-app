@@ -1,12 +1,10 @@
-# shop_keeper
-
-# Shop Keeper App
+# Inventory app App
 
 An inventory management app built with Flutter.
 
 ## Overview
 
-Shop Keeper is a Flutter app designed for managing inventory. It allows users to add, update, and delete items from their inventory, providing a convenient way to keep track of product details.
+Inventory app is a Flutter app designed for managing inventory. It allows users to add, update, and delete items from their inventory, providing a convenient way to keep track of product details.
 
 ## Screenshots
 
@@ -60,9 +58,6 @@ https://github.com/chathudilzo/shop_keeper/assets/93638679/bd823414-63f4-42d8-ae
 - **Contributing
 - **Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 - **Flutter framework
 - **Hive database for data storage
@@ -71,11 +66,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 To run this app locally, follow these steps:
 
 ```bash
-# Clone the repository
-git clone https://github.com/chathudilzo/shop_keeper.git
-
 # Navigate to the project directory
-cd shop-keeper-app
+cd inventory-app
 
 # Get dependencies
 flutter pub get
